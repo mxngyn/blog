@@ -1,0 +1,20 @@
+#nav ul {
+  padding: 0;
+}
+
+#nav li {
+  display: inline;
+  list-style: none;
+  padding-right: 2%;
+  font-size: 0.75em;
+}
+
+#nav li a {
+  text-decoration: none;
+  color: #979797;
+}
+
+#nav li a:hover {
+  text-decoration: none;
+  color: #268bd2;
+}

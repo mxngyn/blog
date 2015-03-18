@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Mai Nguyen
+tagline:          ''
+description:      ''
+url:              http://mxngyn.com
+
+author:
+  name:           'Mai Nguyen'
+  url:            https://twitter.com/mxngyn
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon
