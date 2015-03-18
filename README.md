@@ -1,3 +1,3 @@
-# mxngyn.github.io
+# Blog
 
 **Technologies:** Jekyll (Ruby), Markdown
