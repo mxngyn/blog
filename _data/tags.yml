@@ -12,3 +12,12 @@
 
 - slug: story-vine
   name: Story Vine
+
+- slug: resource
+  name: Resource
+
+- slug: css
+  name: CSS
+
+- slug: computer-science
+  name: Computer Science
