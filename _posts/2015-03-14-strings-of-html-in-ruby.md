@@ -5,9 +5,9 @@ category: programming
 tags: [redactorjs, ruby-on-rails, story-vine]
 ---
 
-In my previous blog post, I talked about how we wanted to use RedactorJS to give the users the same feel as writing a blog post. There were some questions that originated from this such as **1)** how would we sanitize the strings of html before saving it to the database, **2)** how to get rid of the tags when displaying a snippet/story title on a show-all page, and **3)** how to render the snippet or story with the HTML tags.
-
 <!-- more -->
+
+In my previous blog post, I talked about how we wanted to use RedactorJS to give the users the same feel as writing a blog post. There were some questions that originated from this such as **1)** how would we sanitize the strings of html before saving it to the database, **2)** how to get rid of the tags when displaying a snippet/story title on a show-all page, and **3)** how to render the snippet or story with the HTML tags.
 
 To solve the first problem, I found a gem called '[sanitize](https://github.com/rgrove/sanitize)'. The documentation allowed me to choose from varying levels of strictness for sanitazation. I went with the BASIC setting which "allows a variety of markup including formatting elements, links, and lists". I used it in my controller like so:
 {% highlight ruby %}
