@@ -7,9 +7,9 @@ tags: [computer-science, resource]
 
 <!-- more -->
 
-A lot of the computer science concepts were never covered during my time at Dev Bootcamp, which was expected. However, I'm still really interested in these basic concepts, and I feel that knowing them will solidify the foundation for my growth in the tech industry. So here is a quick resource sheet I put together to cover some basics.
+A lot of the computer science concepts were never covered during my time at Dev Bootcamp, which was expected. However, I'm still really interested in these basic concepts, and I feel that knowing them will solidify the foundation for my growth in the tech industry. So here is a quick resource sheet I put together to cover some of the basics.
 
-- `Bit:` smallest unit of binary (0, or 1)
+- `Bit:` smallest unit of binary (0 or 1)
 - `Byte:` 8 bits
 
 Binary numbers are expressed in a **base-2 numeral system**.
@@ -32,8 +32,8 @@ Using that system, we can calculate the value of these bytes:
 
 - `Hardware:` things like a desktop, tablet, smartphone; runs programs
 - `Operating System:` a software program that allows the computer hardware to communicate with the computer software
-- `RAM`/vrtual memory (temp)
-- `ROM`/HD (permanent)
+- `RAM (Random Access Memory):` /vrtual memory (temp)
+- `ROM (Read-Only Memory):` /HD (permanent)
 
 turn on comp - loading stuf from HD to RAM
 open application - load into ram, only loads essential stuff first, then loads other things as u request them
