@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resource Sheet: Basic CS Terminology
+title: Resource Sheet » Basic CS Terminology
 category: technical
 tags: [computer-science, resource]
 ---
