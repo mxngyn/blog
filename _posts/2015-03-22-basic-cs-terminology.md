@@ -32,45 +32,42 @@ Using that system, we can calculate the value of these bytes:
 
 - `Hardware:` things like a desktop, tablet, smartphone; runs programs
 - `Operating System:` a software program that allows the computer hardware to communicate with the computer software
-- `RAM (Random Access Memory):` /vrtual memory (temp)
-- `ROM (Read-Only Memory):` /HD (permanent)
+- `RAM (Random Access Memory):` volatile memory; the data is temporary and is erased when the computer turns off
+- `ROM (Read-Only Memory):` non-volatile memory; the data is permanently written and will still exist even after the computer turns off
 
-turn on comp - loading stuf from HD to RAM
-open application - load into ram, only loads essential stuff first, then loads other things as u request them
-when u close an application, it's storage is purged from ram to make new room for other apps
+When a computer is turned on, it loads data from the hard drive to RAM. When an application opens, the application's data loads into RAM. The application only loads essential items at first and then will load more data as the user requests it. Once you close the application, the data is purged from RAM to make room for other applications.
 
 * * *
 
-Software is a collection of code & programs that run on your comp
-software is soft cuz it can change all the time
-application software
-system software - OS
+Software are computer instructions/data that run on your computer. It's "soft" because it changes/updates all the time.
 
-Lower Language - Machine Language (no compiler/interpreter), more technical
-Higher Language - Python, Ruby, more abstracted, more readable
+There are two types:
 
-higher --> lower
-perform an operation called COMPILING
-compiling - procress of changing somethinfr form higher level to something that machines can understand
+* `Systems Software:` includes operating system and utilities that enable the computer to function
+* `Application Software:` enable users to complete tasks; also known as *end-user programs*
 
 * * *
 
-Client Server Model
-Client makes a request to the server
-Server gives content back to the Client
+* `Low-Level Programming Language:` machine language, no compiler/interpreter needed (think assembly and machine code)
+* `High-Level Programming Language:` strong abstraction (think Ruby and Python)
 
-Front-End uses images (html, css, js)
+To get from a high-level language to a low-level language, it needs to be compiled in order for machines to understand it.
 
-html is a markup language that builds the structure of the website
-css styling language that tells the browser how to look
-
-backend (server side languages)
 
 * * *
 
-paradigm is the way of doing something
-programming paradigm is the way of programming
-Procedural - Step by step the procedure we should follwo to solve a specfiic problem (C)
-Functional - Look at programs like mathmatematical programs. Received inputs to create an output (racket)
-Object-Oriented - uses code objects to mirror real wordl objects (attributes: data asosciate with that object and methods: actions u can perform with the object/attributes)
+**Client-Server Model**
+
+* The *client* sends request to the server
+* The *server* sends content back to the client
+
+
+* * *
+
+A *paradigm* is a way of doing something so a **programming paradigm** is a way or style of programming.
+
+
+* `Procedural:` step by step procedure we should follow to solve a specific problem (C)
+* `Functional:` look at programs like mathematical programs; outputs depend solely on the input and no other factors/side effects (racket)
+* `Object-Oriented:` uses code objects to mirror real world objects; they have *attributes* (data associated with that object) and *methods* (actions that can be performed on the object and its attributes)
 
