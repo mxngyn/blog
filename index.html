@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ post.url }}">
+      <a href="/blog{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
@@ -15,7 +15,7 @@ layout: default
 
     {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
-      <a href="/blog/{{ post.url }}">Read more »</a>
+      <a href="/blog{{ post.url }}">Read more »</a>
     {% else %}
       {{ post.content | strip_html | truncatewords:100 }}
     {% endif %}
