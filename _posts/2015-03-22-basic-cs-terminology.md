@@ -21,12 +21,10 @@ Binary numbers are expressed in a **base-2 numeral system**.
 
 Using that system, we can calculate the value of these bytes:
 
-<div class="message">
 * 00000001 -> 1
 * 00000010 -> 2
 * 00000011 -> 3
 * 00001010 -> 10
-</div>
 
 * * *
 
