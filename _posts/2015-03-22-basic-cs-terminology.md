@@ -10,7 +10,7 @@ tags: [computer-science, resource]
 - `Bit:` smallest unit of binary (0, or 1)
 - `Byte:` 8 bits
 
-Binary numbers are expressed in a **base-2 numeral system***.
+Binary numbers are expressed in a **base-2 numeral system**.
 
 - 2^0 = ones
 - 2^1 = twos
@@ -23,8 +23,11 @@ Using that system, we can calculate the value of these bytes:
 
 <div class="message">
   00000001 -> 1
+
   00000010 -> 2
+
   00000011 -> 3
+
   00001010 -> 10
 </div>
 
