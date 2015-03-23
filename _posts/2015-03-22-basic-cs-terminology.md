@@ -7,7 +7,7 @@ tags: [computer-science, resource]
 
 <!-- more -->
 
-A lot of the computer science concepts were never covered during my time at Dev Bootcamp, which was expected. However, I'm still really interested in these basic concepts, and I feel that knowing them will solidify the foundation for my growth in the tech industry. So here is a quick resource sheet I put together to cover some of the basics.
+A lot of computer science concepts were never covered during my time at Dev Bootcamp, which was expected. However, I'm still really interested in these basic concepts, and I feel that knowing them will solidify the foundation for my growth in the tech industry. So here is a quick resource sheet I put together to cover some of the basics.
 
 - `Bit:` smallest unit of binary (0 or 1)
 - `Byte:` 8 bits
