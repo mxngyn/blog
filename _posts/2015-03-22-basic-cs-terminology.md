@@ -40,6 +40,8 @@ turn on comp - loading stuf from HD to RAM
 open application - load into ram, only loads essential stuff first, then loads other things as u request them
 when u close an application, it's storage is purged from ram to make new room for other apps
 
+* * *
+
 Software is a collection of code & programs that run on your comp
 software is soft cuz it can change all the time
 application software
@@ -52,6 +54,8 @@ higher --> lower
 perform an operation called COMPILING
 compiling - procress of changing somethinfr form higher level to something that machines can understand
 
+* * *
+
 Client Server Model
 Client makes a request to the server
 Server gives content back to the Client
@@ -62,6 +66,8 @@ html is a markup language that builds the structure of the website
 css styling language that tells the browser how to look
 
 backend (server side languages)
+
+* * *
 
 paradigm is the way of doing something
 programming paradigm is the way of programming
