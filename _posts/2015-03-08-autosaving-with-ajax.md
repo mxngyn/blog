@@ -5,9 +5,9 @@ category: programming
 tags: [redactorjs, ruby-on-rails, javascript, ajax, story-vine]
 ---
 
-For our final project at [Dev Bootcamp](http://devbootcamp.com), my group and I created a web app called [Story Vine](http://story-vine-app.herokuapp.com/).
-
 <!-- more -->
+
+For our final project at [Dev Bootcamp](http://devbootcamp.com), my group and I created a web app called [Story Vine](http://story-vine-app.herokuapp.com/).
 
 Quick background story:
 >Story Vine is a writing web app that serves a community of writers to share ideas and write stories. It was inspired by the fact that most works of literature have started out as a simple idea, like a seed. This app provides a place for writers to share an idea in the form of a snippet whether it be a dream, a memory, or perhaps a random thought, and watch them come to life through stories.
