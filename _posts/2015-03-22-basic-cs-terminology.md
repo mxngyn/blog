@@ -7,28 +7,28 @@ tags: [computer-science, resource]
 
 <!-- more -->
 
-**Bit** smallest unit of binary (0, or 1
-8 Bits = 1 Byte
-The decimal and binary number systems re positional number systems, aka, their position indicate the relative value
+- `Bit:` smallest unit of binary (0, or 1)
+- `Byte:` 8 bits
 
-1,234
-1 000
-2 00
-3 0
-4
+Binary numbers are expressed in a **base-2 numeral system***.
 
-2 base
-2^0 ones
-2^1 twos
-2^2 fours
-2^3 eights
-2^4 sixteens
-2^5 thirty-twos
+- 2^0 = ones
+- 2^1 = twos
+- 2^2 = fours
+- 2^3 = eights
+- 2^4 = sixteens
+- 2^5 = thirty-twos
 
-00000001 -> 1
-00000010 -> 2
-00000011 -> 3
-00001010 -> 10
+Using that system, we can calculate the value of these bytes:
+
+<div class="message">
+  00000001 -> 1
+  00000010 -> 2
+  00000011 -> 3
+  00001010 -> 10
+</div>
+
+* * *
 
 Hardware - desktop, tablet, smartphone
 Hardware must run programs
